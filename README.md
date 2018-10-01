@@ -1,2 +1,3 @@
-# hacktober-checker
-Hacktober PR checker
+# checker
+
+Describe checker here.
